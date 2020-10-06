@@ -2,7 +2,7 @@
 
 *Deep Portfolio Theory* is a portfolio selection method published by J. B. Heaton, N. G. Polson, J. H. Witte from GreyMaths Inc. 
 
-Authors' codes are proprietary, so I (this github repo owner) can only try to code this notebook myself for experiment. I am not the author and is not related to the original authors. This code may not achieve satisfying results as the paper states. Maybe I misunderstand some parts from the paper, so I hope that someone can continue the research and contribute to the framework. (you are welcome to open issues.)
+Authors' codes are proprietary, so I (this github repo owner) can only try to code this notebook  myself for experiment. I am not the author and is not related to the original authors. This code may not achieve satisfying results as the paper states. Maybe I misunderstand some parts from the paper, so I hope that someone can continue the research and contribute to the framework. (you are welcome to open issues.)
 
 You may find relevant papers according to the lists:
 
@@ -11,7 +11,7 @@ You may find relevant papers according to the lists:
 
 
 # Some "tricky" stuffs you may want to know after reading the paper
-- The authors use **"auto-encoding, calibration, validation and verification"** as machine learning steps. In computer science, we are more comfortable to call them **"auto-encoding, validation, testing and verification"**. But we will still follow the terms the authors use in this repo.
+- The authors use **"auto-encoding, calibration, validation and verification"** as machine learning steps. In computer science, we are more  comfortable to call them **"auto-encoding, validation, testing and verification"**. But we will still follow the terms the authors use in this repo.
 
 - For the graph below in Page 13, for convenience, let's name upper left, upper right, lower left, lower right as A, B, C, D.
 ![p13](image/p13.png)
@@ -24,7 +24,7 @@ You may find relevant papers according to the lists:
 Python 3, Keras (Tensorflow Backend)
 
 
-# Data
+# Data Analysis
 
 - Downloaded from Bloomberg Terminal
 
